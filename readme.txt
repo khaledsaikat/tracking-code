@@ -5,14 +5,16 @@ Tags: tracking, code, admin, site, google, yahoo, bing, piwik, google analytics
 Requires at least: 2.0.0
 Tested up to: 3.8
 Stable tag: 1.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Simple plugin for adding tracking code to site head and footer section.
 
 == Description ==
 
-<p>Add tracking code(e.g.: google analytics, piwik) on your website without hacking your theme file.</p>
+Add tracking code(e.g. google analytics, piwik) on your website without hacking your theme file.
 
-<p>This plugin provide simple way to add your tracking code in html head or footer section of the site.<p>
+This plugin provide simple way to add your tracking code in html head or footer section of the site.
 
 == Installation ==
 
