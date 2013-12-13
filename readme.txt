@@ -1,17 +1,18 @@
 === Plugin Name ===
 Contributors: khaledsaikat
 Donate link: http://khaledsaikat.com
-Tags: tracking, code, admin, site, google, yahoo, bing, piwik
-Requires at least: 1.5.0
-Tested up to: 3.3.1
-Stable tag: 1.0.0
+Tags: tracking, code, admin, site, google, yahoo, bing, piwik, google analytics
+Requires at least: 2.0.0
+Tested up to: 3.8
+Stable tag: 1.1
 
 Simple plugin for adding tracking code to site head and footer section.
 
 == Description ==
 
-<p>Simple plugin for adding tracking code to site head and footer section.</p>
+<p>Add tracking code(e.g.: google analytics, piwik) on your website without hacking your theme file.</p>
 
+<p>This plugin provide simple way to add your tracking code in html head or footer section of the site.<p>
 
 == Installation ==
 
@@ -26,6 +27,10 @@ Simple plugin for adding tracking code to site head and footer section.
 
 
 == Changelog ==
+
+= 1.1 =
+* Solved previous bug.
+* Change enable checkbox to disable checkbox.
 
 = 1.0.0 =
 * First version.
